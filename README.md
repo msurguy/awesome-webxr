@@ -1,5 +1,7 @@
-# awesome-webxr
+# Awesome WebXR
 Compilation of links for WebXR demos, frameworks, editors and more (WebVR / WebAR)
+
+Feel free to submit PRs with more links! 
 
 ## Impressive demos
 

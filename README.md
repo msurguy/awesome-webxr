@@ -46,6 +46,10 @@ Feel free to submit PRs with more links!
 
 - Firefox Reality: https://mixedreality.mozilla.org/firefox-reality/
 
+## By platform:
+
+- Demos for Quest https://sidequestvr.com/#/webvr
+
 ## Studios
 
 - Marpi: https://www.marpi.studio/

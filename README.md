@@ -16,6 +16,7 @@ Feel free to submit PRs with more links!
 - Three.js: https://threejs.org/examples/#webxr_vr_rollercoaster
 - React 360: https://facebook.github.io/react-360/
 - RiftSketch: https://github.com/brianpeiris/RiftSketch
+- Babylon.js: https://github.com/BabylonJS/Babylon.js
 
 ## GUI-based editors
 
@@ -45,6 +46,14 @@ Feel free to submit PRs with more links!
 ## Browsers
 
 - Firefox Reality: https://mixedreality.mozilla.org/firefox-reality/
+
+## Tutorials
+
+- Codelab AR with WebXR: https://codelabs.developers.google.com/codelabs/ar-with-webxr/#1
+
+## Components
+
+- Model Viewer: https://github.com/google/model-viewer
 
 ## By platform:
 

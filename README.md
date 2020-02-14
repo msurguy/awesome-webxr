@@ -47,6 +47,10 @@ Feel free to submit PRs with more links!
 
 - VARTISTE (Image Editor): https://zach-geek.gitlab.io/vartiste/index.html
 
+## Presentation software
+
+- FrameVR https://www.framevr.io/
+
 ## Browsers
 
 - Firefox Reality: https://mixedreality.mozilla.org/firefox-reality/

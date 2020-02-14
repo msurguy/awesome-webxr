@@ -43,6 +43,10 @@ Feel free to submit PRs with more links!
 
 - https://classes.marpi.pl/resonate/
 
+## Painting / Drawing
+
+- VARTISTE (Image Editor): https://zach-geek.gitlab.io/vartiste/index.html
+
 ## Browsers
 
 - Firefox Reality: https://mixedreality.mozilla.org/firefox-reality/

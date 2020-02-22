@@ -74,6 +74,7 @@ Feel free to submit PRs with more links!
 
 ## Free 3D Models
 
+- https://usdzshare.com
 - http://threedscans.com/
 
 

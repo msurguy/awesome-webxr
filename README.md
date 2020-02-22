@@ -72,4 +72,8 @@ Feel free to submit PRs with more links!
 - Marpi: https://www.marpi.studio/
 - Supermedium: https://supermedium.com/
 
+## Free 3D Models
+
+- http://threedscans.com/
+
 

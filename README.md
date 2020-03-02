@@ -58,6 +58,7 @@ Feel free to submit PRs with more links!
 ## Tutorials
 
 - Codelab AR with WebXR: https://codelabs.developers.google.com/codelabs/ar-with-webxr/#1
+- Deep dive into AR technology: https://vas3k.com/blog/augmented_reality/
 
 ## Components
 
@@ -76,5 +77,6 @@ Feel free to submit PRs with more links!
 
 - https://usdzshare.com
 - http://threedscans.com/
+- https://www.si.edu/openaccess
 
 

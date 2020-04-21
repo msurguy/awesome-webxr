@@ -26,6 +26,10 @@ Feel free to submit PRs with more links!
 - Spoke from Mozilla: https://hubs.mozilla.com/spoke
 - Nunustudio: https://nunustudio.org/
 - PlayCanvas: https://developer.playcanvas.com/en/tutorials/webvr-lab/
+- Blender (3D model creation): https://www.blender.org/
+- Blender plugin for WebXR export: https://github.com/feiss/blender-addons-for-webxr
+- Unity: https://unity.com/
+- Unity WebXR export plugin: https://github.com/MozillaReality/unity-webxr-export
 
 ## Game Demos
 

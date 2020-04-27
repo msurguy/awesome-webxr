@@ -9,6 +9,7 @@ Feel free to submit PRs with more links!
 - TRACK: https://demos.littleworkshop.fr/track
 - Inside Music: https://experiments.withgoogle.com/webvr/inside-music/view/
 - WebVR Experiments with Google: https://experiments.withgoogle.com/collection/webvr
+- Streetmix 3D: https://kfarr.github.io/streetmix3d/
 
 ## Frameworks
 
@@ -37,6 +38,8 @@ Feel free to submit PRs with more links!
 - Moonrider: http://moonrider.xyz/ Source: https://github.com/supermedium/moonrider
 - JS13K WebXR Games: https://js13kgames.com/entries/2019/26
 - Quake 3D http://media.tojicode.com/q3bsp/
+- Elfland Glider: https://elfland-glider.surge.sh/
+- VR Planets: https://travisbarrydick.github.io/vr-planets/dist/
 
 ## Communities
 
@@ -63,10 +66,12 @@ Feel free to submit PRs with more links!
 
 - Codelab AR with WebXR: https://codelabs.developers.google.com/codelabs/ar-with-webxr/#1
 - Deep dive into AR technology: https://vas3k.com/blog/augmented_reality/
+- A-Frame School: https://aframe.io/aframe-school/#/
 
 ## Components
 
 - Model Viewer: https://github.com/google/model-viewer
+- A-Frame Components: https://www.npmjs.com/search?q=keywords:aframe-component
 
 ## By platform:
 

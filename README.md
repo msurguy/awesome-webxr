@@ -10,7 +10,11 @@ Feel free to submit PRs with more links!
 - Inside Music: https://experiments.withgoogle.com/webvr/inside-music/view/
 - WebVR Experiments with Google: https://experiments.withgoogle.com/collection/webvr
 - Streetmix 3D: https://kfarr.github.io/streetmix3d/
+
+## Hand Tracking
+
 - Finger Tracking on Oculus Quest https://github.com/stewdio/vr-hands
+- Handy.js makes defining and using custom hand shapes in WebXR a snap: https://github.com/stewdio/handy.js
 
 ## Frameworks
 

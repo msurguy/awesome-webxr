@@ -15,6 +15,7 @@ Feel free to submit PRs with more links!
 
 - Finger Tracking on Oculus Quest https://github.com/stewdio/vr-hands
 - Handy.js makes defining and using custom hand shapes in WebXR a snap: https://github.com/stewdio/handy.js
+- Three.js VR Haptics: https://threejs.org/examples/webxr_vr_haptics.html
 
 ## Frameworks
 

@@ -16,6 +16,7 @@ Feel free to submit PRs with more links!
 - Finger Tracking on Oculus Quest https://github.com/stewdio/vr-hands
 - Handy.js makes defining and using custom hand shapes in WebXR a snap: https://github.com/stewdio/handy.js
 - Three.js VR Haptics: https://threejs.org/examples/webxr_vr_haptics.html
+- Unity WebXR plugin : https://github.com/Rufus31415/Simple-WebXR-Unity#simple-hand-tracking
 
 ## Frameworks
 
@@ -24,6 +25,7 @@ Feel free to submit PRs with more links!
 - React 360: https://facebook.github.io/react-360/
 - RiftSketch: https://github.com/brianpeiris/RiftSketch
 - Babylon.js: https://github.com/BabylonJS/Babylon.js
+- Microsoft MRTK (Mixed Reality Toolkit) : https://github.com/Rufus31415/Simple-WebXR-Unity#mrtk
 
 ## GUI-based editors
 
@@ -37,6 +39,7 @@ Feel free to submit PRs with more links!
 - Blender plugin for WebXR export: https://github.com/feiss/blender-addons-for-webxr
 - Unity: https://unity.com/
 - Unity WebXR export plugin: https://github.com/MozillaReality/unity-webxr-export
+- Unity WebXR lightweight plugin : https://github.com/Rufus31415/Simple-WebXR-Unity
 - Three.js live coding environment: https://twitter.com/mrdoob/status/1263498538316636162 
 
 ## Game Demos
@@ -52,6 +55,7 @@ Feel free to submit PRs with more links!
 
 - Poly from Google: https://poly.google.com/
 - Hubs by Mozilla: https://hubs.mozilla.com/#/
+- HoloDevelopers : https://join.slack.com/t/holodevelopers/shared_invite/zt-5d6fsq82-m3vHQGYBAvJfjtAR6_wBSA
 
 ## Audio visualizations
 
@@ -79,6 +83,7 @@ Feel free to submit PRs with more links!
 
 - Model Viewer: https://github.com/google/model-viewer
 - A-Frame Components: https://www.npmjs.com/search?q=keywords:aframe-component
+- 45+ 3D formats model viewer : https://rufus31415.github.io/sandbox/3d-viewer/
 
 ## By platform:
 

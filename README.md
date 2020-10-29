@@ -10,6 +10,8 @@ Feel free to submit PRs with more links!
 - Inside Music: https://experiments.withgoogle.com/webvr/inside-music/view/
 - WebVR Experiments with Google: https://experiments.withgoogle.com/collection/webvr
 - Streetmix 3D: https://kfarr.github.io/streetmix3d/
+- IK Multiplayer avatars: https://avatars.exokit.org/
+- Curated list of WebXR demos: https://metaverse.website/
 
 ## Hand Tracking
 
@@ -25,6 +27,7 @@ Feel free to submit PRs with more links!
 - React 360: https://facebook.github.io/react-360/
 - RiftSketch: https://github.com/brianpeiris/RiftSketch
 - Babylon.js: https://github.com/BabylonJS/Babylon.js
+- JanusWeb: https://github.com/jbaicoianu/janusweb
 - Microsoft MRTK (Mixed Reality Toolkit) : https://github.com/Rufus31415/Simple-WebXR-Unity#mrtk
 
 ## GUI-based editors

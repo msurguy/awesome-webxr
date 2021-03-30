@@ -33,6 +33,7 @@ Feel free to submit PRs with more links!
 ## GUI-based editors
 
 - Amazon Sumerian: https://aws.amazon.com/sumerian/
+- Godot: https://godotengine.org/article/release-candidate-godot-3-3-rc-6
 - RemixVR (live-coding environment): https://github.com/teliportme/remixvr
 - Three.js Editor: https://threejs.org/editor/
 - Spoke from Mozilla: https://hubs.mozilla.com/spoke
@@ -43,7 +44,8 @@ Feel free to submit PRs with more links!
 - Unity: https://unity.com/
 - Unity WebXR export plugin: https://github.com/MozillaReality/unity-webxr-export
 - Unity WebXR lightweight plugin : https://github.com/Rufus31415/Simple-WebXR-Unity
-- Three.js live coding environment: https://twitter.com/mrdoob/status/1263498538316636162 
+- Three.js live coding environment: https://twitter.com/mrdoob/status/1263498538316636162
+- Wonderland: https://wonderlandengine.com 
 
 ## Game Demos
 

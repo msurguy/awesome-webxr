@@ -49,6 +49,7 @@ Feel free to submit PRs with more links!
 
 ## Game Demos
 
+- NeoFables: https://neofables.com/
 - FlappyBird VR, Barista Simulator and more games: https://constructarca.de/
 - Moonrider: http://moonrider.xyz/ Source: https://github.com/supermedium/moonrider
 - JS13K WebXR Games: https://js13kgames.com/entries/2019/26

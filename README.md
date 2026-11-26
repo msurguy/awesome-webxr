@@ -12,6 +12,7 @@ Feel free to submit PRs with more links!
 - Streetmix 3D: https://kfarr.github.io/streetmix3d/
 - IK Multiplayer avatars: https://avatars.exokit.org/
 - Curated list of WebXR demos: https://metaverse.website/
+- Free catalogue of close to 100 WebXR games, browsable as a trailer feed in the headset: https://www.nxtwebxr.com/
 
 ## Hand Tracking
 
